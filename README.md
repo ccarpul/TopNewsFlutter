@@ -1,16 +1,52 @@
-# top_news_flutter
+# Top News Flutter
 
-A new Flutter project.
+Mobile App developed in Flutter/Dart with offline first mode
 
-## Getting Started
+It shows recent news from US and the articles saved
 
-This project is a starting point for a Flutter application.
+The newsapi.org api was used.
 
-A few resources to get you started if this is your first Flutter project:
+# For Run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Create an account in [newsapi.org](https://newsapi.org/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Get API key
+
+* To create a .env file based on .env.template 
+
+* Past this line in your .env folder
+
+  NEWS_API_KEY={your api key here}
+
+* Run the branch **develop**
+
+## Main aspects
+
+
+* Clean Architecture
+* Cupertino icons
+* Flutter dotenv
+* Go Router
+* Http
+* Intl
+* Path
+* Path Provider
+* Provider for manage states
+* Shared preferences
+* Smooth page indicator
+* Sqflite
+
+<table>
+  <tr>
+    <td>Home</td>
+    <td>Saved News</td>
+   </tr> 
+   <tr>
+      <td><img src=""width="300"></td>
+    <td> <img src=""width="300"> </td>
+  </tr>
+</table>
+
+## Authors ✒️
+
+* **Carlos Pulido** 
