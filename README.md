@@ -42,8 +42,8 @@ The newsapi.org api was used.
     <td>Saved News</td>
    </tr> 
    <tr>
-      <td><img src=""width="300"></td>
-    <td> <img src=""width="300"> </td>
+      <td><img src="https://github.com/ccarpul/TopNewsFlutter/blob/develop/home.png"width="300"></td>
+    <td> <img src="https://github.com/ccarpul/TopNewsFlutter/blob/develop/saved.png"width="300"> </td>
   </tr>
 </table>
 
